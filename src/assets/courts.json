@@ -1,0 +1,223 @@
+[
+  {
+    "name": "Go Basket Nepal",
+    "phone": "+9779824742900",
+    "location": {
+      "address": "Buddhanagar, New Baneshwor, Kathmandu, Nepal",
+      "lat": 27.6857456,
+      "lng": 85.3310238
+    },
+    "google_maps_link": "https://maps.google.com/?q=27.6857456,85.3310238",
+    "image": "",
+    "type": "indoor",
+    "description": "Premium indoor basketball facility with booking system."
+  },
+  {
+    "name": "Downtown Basketball Court",
+    "phone": "+9779851080375",
+    "location": {
+      "address": "Boudha - Jorpati Rd, Kathmandu, Nepal",
+      "lat": 27.7188946,
+      "lng": 85.3648327
+    },
+    "google_maps_link": "https://maps.google.com/?q=27.7188946,85.3648327",
+    "image": "",
+    "type": "indoor",
+    "description": "Popular indoor court near Boudha area."
+  },
+  {
+    "name": "Hoops Nepal",
+    "phone": "+9779808521501",
+    "location": {
+      "address": "Thirbam Sadak, Kathmandu, Nepal",
+      "lat": 27.7172825,
+      "lng": 85.3307262
+    },
+    "google_maps_link": "https://maps.google.com/?q=27.7172825,85.3307262",
+    "image": "",
+    "type": "indoor",
+    "description": "Basketball training and indoor playing facility."
+  },
+  {
+    "name": "Dunkmandu",
+    "phone": "+9779808176677",
+    "location": {
+      "address": "Kathmandu, Nepal",
+      "lat": 27.7333258,
+      "lng": 85.3700747
+    },
+    "google_maps_link": "https://maps.google.com/?q=27.7333258,85.3700747",
+    "image": "",
+    "type": "indoor",
+    "description": "Modern indoor basketball court and training center."
+  },
+  {
+    "name": "Ball Z Basketball Court",
+    "phone": "+9779742466678",
+    "location": {
+      "address": "Boudha Road, Kathmandu, Nepal",
+      "lat": 27.7319374,
+      "lng": 85.3695907
+    },
+    "google_maps_link": "https://maps.google.com/?q=27.7319374,85.3695907",
+    "image": "",
+    "type": "indoor",
+    "description": "Indoor basketball court around Boudha area."
+  },
+  {
+    "name": "Golfutar Basketball Court",
+    "phone": "",
+    "location": {
+      "address": "Golfutar, Kathmandu, Nepal",
+      "lat": 27.7477355,
+      "lng": 85.3479884
+    },
+    "google_maps_link": "https://maps.google.com/?q=27.7477355,85.3479884",
+    "image": "",
+    "type": "outdoor",
+    "description": "Popular outdoor community basketball court."
+  },
+  {
+    "name": "KMC Basketball Court",
+    "phone": "01-4242121",
+    "location": {
+      "address": "Bagbazar, Kathmandu, Nepal",
+      "lat": 27.707915,
+      "lng": 85.322575
+    },
+    "google_maps_link": "https://maps.google.com/?q=27.707915,85.322575",
+    "image": "",
+    "type": "outdoor",
+    "description": "Basketball court managed by Kathmandu Metropolitan City."
+  },
+  {
+    "name": "BMK Basketball Court",
+    "phone": "+9779841265571",
+    "location": {
+      "address": "Chandol Chowk, Kathmandu, Nepal",
+      "lat": 27.7215,
+      "lng": 85.3315
+    },
+    "google_maps_link": "https://maps.google.com/?q=27.7215,85.3315",
+    "image": "",
+    "type": "outdoor",
+    "description": "Local outdoor basketball court in Chandol area."
+  },
+  {
+    "name": "GAA Hall Basketball Court",
+    "phone": "+97714443236",
+    "location": {
+      "address": "Amrit Marg, Kathmandu, Nepal",
+      "lat": 27.7163522,
+      "lng": 85.313375
+    },
+    "google_maps_link": "https://maps.google.com/?q=27.7163522,85.313375",
+    "image": "",
+    "type": "indoor",
+    "description": "Indoor basketball court in GAA Hall."
+  },
+  {
+    "name": "Merlion Gymnasium Court",
+    "phone": "+9779843566401",
+    "location": {
+      "address": "Shiva Bhakta Marg, Kathmandu, Nepal",
+      "lat": 27.7230626,
+      "lng": 85.3245349
+    },
+    "google_maps_link": "https://maps.google.com/?q=27.7230626,85.3245349",
+    "image": "",
+    "type": "indoor",
+    "description": "Indoor gymnasium with basketball facilities."
+  },
+  {
+    "name": "Dhuku Sports Hub Court",
+    "phone": "+97714535832",
+    "location": {
+      "address": "Lamingtan Marg, Kathmandu, Nepal",
+      "lat": 27.731404,
+      "lng": 85.3350155
+    },
+    "google_maps_link": "https://maps.google.com/?q=27.731404,85.3350155",
+    "image": "",
+    "type": "indoor",
+    "description": "Sports hub with indoor basketball court."
+  },
+  {
+    "name": "Pushpal Memorial Basketball Court",
+    "phone": "",
+    "location": {
+      "address": "Pushpalal Path, Kathmandu, Nepal",
+      "lat": 27.707,
+      "lng": 85.33
+    },
+    "google_maps_link": "https://maps.google.com/?q=27.707,85.33",
+    "image": "",
+    "type": "outdoor",
+    "description": "Outdoor memorial basketball court."
+  },
+  {
+    "name": "Royal Basketball Academy",
+    "phone": "+9779851146824",
+    "location": {
+      "address": "Siddhipur, Lalitpur, Nepal",
+      "lat": 27.6488371,
+      "lng": 85.3589223
+    },
+    "google_maps_link": "https://maps.google.com/?q=27.6488371,85.3589223",
+    "image": "",
+    "type": "indoor",
+    "description": "Basketball academy and training center."
+  },
+  {
+    "name": "Pulchowk Campus Basketball Court",
+    "phone": "",
+    "location": {
+      "address": "Pulchowk Campus, Lalitpur, Nepal",
+      "lat": 27.678,
+      "lng": 85.316
+    },
+    "google_maps_link": "https://maps.google.com/?q=27.678,85.316",
+    "image": "",
+    "type": "outdoor",
+    "description": "Campus basketball court used by students."
+  },
+  {
+    "name": "Tribhuvan University Basketball Court",
+    "phone": "",
+    "location": {
+      "address": "Kirtipur, Kathmandu, Nepal",
+      "lat": 27.679,
+      "lng": 85.276
+    },
+    "google_maps_link": "https://maps.google.com/?q=27.679,85.276",
+    "image": "",
+    "type": "outdoor",
+    "description": "Basketball court inside Tribhuvan University."
+  },
+  {
+    "name": "Pepsicola Townplanning Basketball Court",
+    "phone": "",
+    "location": {
+      "address": "Pepsicola, Kathmandu, Nepal",
+      "lat": 27.6943488,
+      "lng": 85.3663874
+    },
+    "google_maps_link": "https://maps.google.com/?q=27.6943488,85.3663874",
+    "image": "",
+    "type": "outdoor",
+    "description": "Community basketball court in Pepsicola area."
+  },
+  {
+    "name": "Lainchaur Basketball Court",
+    "phone": "",
+    "location": {
+      "address": "Lainchaur, Kathmandu, Nepal",
+      "lat": 27.7205,
+      "lng": 85.3173
+    },
+    "google_maps_link": "https://maps.google.com/?q=27.7205,85.3173",
+    "image": "",
+    "type": "outdoor",
+    "description": "Outdoor basketball court in Lainchaur."
+  }
+]
