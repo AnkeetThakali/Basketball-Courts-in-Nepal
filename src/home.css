@@ -1,3 +1,63 @@
-.banner{
-    
+.court-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 25px;
+    padding: 20px;
+}
+
+.court-card {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    overflow: hidden;
+    transition: 0.3s;
+}
+
+.court-card:hover {
+    transform: translateY(-8px);
+}
+
+.card-image {
+    position: relative;
+    height: 200px;
+}
+
+.card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+}
+
+.badge.indoor { background: #3498db; }
+.badge.outdoor { background: #e67e22; }
+
+.card-content {
+    padding: 20px;
+}
+
+.card-content h4 { margin: 0 0 10px 0; color: #2c3e50; }
+
+.address { font-size: 0.85rem; color: #7f8c8d; margin-bottom: 10px; }
+
+.details-btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 20px;
+    background: #2d3436;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 0.9rem;
 }
