@@ -5,20 +5,23 @@ function Home() {
     const [courts, setCourts] = useState([]);
     const [loading, setLoading] = useState(true);
 
-    useEffect(() => {
-        // This fetches from your local Node server, 
-        // which is already connected to your Atlas Cloud
-        fetch("http://localhost:5000/courts")
-            .then((res) => res.json())
-            .then((data) => {
-                setCourts(data);
-                setLoading(false);
-            })
-            .catch((err) => {
-                console.error("Fetch error:", err);
-                setLoading(false);
-            });
-    }, []);
+// Change your useEffect fetch call to this:
+useEffect(() => {
+    // We use the Render URL you just created
+    fetch("https://basketball-courts-in-nepal.onrender.com/courts")
+        .then((res) => {
+            if (!res.ok) throw new Error("Network response was not ok");
+            return res.json();
+        })
+        .then((data) => {
+            setCourts(data);
+            setLoading(false);
+        })
+        .catch((err) => {
+            console.error("Fetch error:", err);
+            setLoading(false);
+        });
+}, []);
 
     return (
         <div className="home">
