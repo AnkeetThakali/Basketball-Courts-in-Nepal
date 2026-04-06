@@ -20,7 +20,7 @@ app.use("/courts", courtRoutes);
 app.get('/courts/:id', async (req, res) => {
     try {
         // req.params.id grabs the ID from the URL
-        const court = await Court.findById(req.params.id);
+        const court = await court.findById(req.params.id);
         
         if (!court) {
             return res.status(404).json({ message: "Court not found" });
