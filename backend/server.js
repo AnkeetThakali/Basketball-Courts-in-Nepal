@@ -16,6 +16,23 @@ app.use(express.json());
 // ✅ THEN use routes
 app.use("/courts", courtRoutes);
 
+// Route to get ONE specific court
+app.get('/courts/:id', async (req, res) => {
+    try {
+        // req.params.id grabs the ID from the URL
+        const court = await Court.findById(req.params.id);
+        
+        if (!court) {
+            return res.status(404).json({ message: "Court not found" });
+        }
+        
+        res.json(court);
+    } catch (err) {
+        console.error(err);
+        res.status(500).json({ message: "Server error or invalid ID format" });
+    }
+});
+
 // ✅ connect DB
 mongoose.connect(process.env.MONGO_URI)
   .then(() => console.log("✅ MongoDB connected"))
