@@ -7,10 +7,9 @@ export default function NavBar(){
             <div className="nav-items">
                 <Link className="nav-link" to="/">Home</Link>
                 <Link className="nav-link" to="/basketball">Basketball</Link>
-                <Link className="nav-link" to="/Futsal">Futsal</Link>
-                <Link className="nav-link" to="/Tennis">Tennis</Link>
-                <Link className="nav-link" to="/Swimming">Swimming</Link>
+                <Link className="nav-link" to="/futsal">Futsal</Link>
                 <Link className="nav-link" to="/badminton">Badminton</Link>
+                <Link className="nav-link" to="/others">Others</Link>
             </div>
         </div>
     )

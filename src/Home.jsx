@@ -33,40 +33,7 @@ useEffect(() => {
             <div>
                 <NavBar/>
             </div>
-            {/* <div className="basketball-banner">
-                <h1>Find Your Next Game</h1>
-                <p>Connecting ballers to the best courts in Kathmandu.</p>
-            </div>
-
-            <div className="courts-section">
-                <h3>Basketball Courts in Kathmandu</h3>
-                
-                {loading ? (
-                    <div className="loader">Loading Courts from Cloud...</div>
-                ) : (
-                    <div className="court-grid">
-                        {courts.map((court) => (
-                            <div key={court._id} className="court-card">
-                                <div className="card-image">
-                                    <img 
-                                        src={court.image || "https://images.unsplash.com/photo-1546519638-68e109498ffc?q=80&w=500"} 
-                                        alt={court.name} 
-                                    />
-                                    <span className={`badge ${court.type}`}>{court.type}</span>
-                                </div>
-                                <div className="card-content">
-                                    <h4>{court.name}</h4>
-                                    <p className="address">📍 {court.location.address}</p>
-                                    <p className="desc">{court.description.substring(0, 60)}...</p>
-                                    <Link to={`/court/${court._id}`} className="details-btn">
-                                        View Details
-                                    </Link>
-                                </div>
-                            </div>
-                        ))}
-                    </div>
-                )}
-            </div> */}
+            
         </div>
     );
 }
