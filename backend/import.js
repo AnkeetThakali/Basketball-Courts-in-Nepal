@@ -9,6 +9,8 @@ mongoose.connect(process.env.MONGO_URI);
 
 // load JSON
 const courts = JSON.parse(fs.readFileSync("../src/assets/courts.json", "utf-8"));
+// const futsal = JSON.parse(fs.readFileSync("../src/assets/futsal.json", "utf-8"));
+
 // slug helper
 function createSlug(name) {
   return name.toLowerCase().replace(/\s+/g, "-");

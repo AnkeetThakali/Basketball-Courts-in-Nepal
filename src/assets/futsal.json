@@ -1,0 +1,112 @@
+[
+  {
+    "name": "We Play Sports Arena",
+    "type": "Futsal",
+    "location": {
+      "address": "Gokarneshwor-8, Buddha Chowk"
+    },
+    "description": "A popular multi-sport facility in Gokarneshwor offering high-quality turf and evening lighting.",
+    "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=1000",
+    "phone": "9744467776",
+    "hours": "6:00 am - 9:00 pm"
+  },
+  {
+    "name": "Dhanawantari Futsal",
+    "type": "Futsal",
+    "location": {
+      "address": "Dhanawantari, Yellow Bridge"
+    },
+    "description": "One of the oldest and most well-known futsal hubs in Kathmandu with professional-grade surfacing.",
+    "image": "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?q=80&w=1000",
+    "phone": "9803047262",
+    "hours": "6:00 am - 8:00 pm"
+  },
+  {
+    "name": "Tahachal Futsal",
+    "type": "Futsal",
+    "location": {
+      "address": "Pooja Marg, Tahachal"
+    },
+    "description": "Conveniently located in Tahachal, providing a great atmosphere for local matches and tournaments.",
+    "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=1000",
+    "phone": "01-5381057",
+    "hours": "6:00 am - 8:00 pm"
+  },
+  {
+    "name": "Mates Futsal",
+    "type": "Futsal",
+    "location": {
+      "address": "Gaibachha Pati, Tahachal"
+    },
+    "description": "A friendly community arena perfect for casual games with friends and colleagues.",
+    "image": "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?q=80&w=1000",
+    "phone": "9849103759",
+    "hours": "7:00 am - 8:00 pm"
+  },
+  {
+    "name": "United Futsal",
+    "type": "Futsal",
+    "location": {
+      "address": "Bafal, Bijaya Marg"
+    },
+    "description": "Located in Bafal, this arena is known for its well-maintained pitch and competitive local leagues.",
+    "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=1000",
+    "phone": "01-5237599",
+    "hours": "6:00 am - 8:00 pm"
+  },
+  {
+    "name": "Vajra Futsal",
+    "type": "Futsal",
+    "location": {
+      "address": "Bijeswori, Swoyambhu"
+    },
+    "description": "Situated near the Swoyambhu area, offering a great view and a standard-sized futsal court.",
+    "image": "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?q=80&w=1000",
+    "phone": "015372353",
+    "hours": "6:00 am - 8:00 pm"
+  },
+  {
+    "name": "Swoyambhu Recreation Center",
+    "type": "Futsal",
+    "location": {
+      "address": "Swoyambhu Chowk, Ring Rd"
+    },
+    "description": "A multi-purpose sports center on the Ring Road with easy accessibility and parking.",
+    "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=1000",
+    "phone": "9823478116",
+    "hours": "6:00 am - 9:00 pm"
+  },
+  {
+    "name": "Futsal Park",
+    "type": "Futsal",
+    "location": {
+      "address": "Buddha Chowk, Nagarjun"
+    },
+    "description": "Quiet location in Nagarjun with a focus on providing a quality playing experience for ballers.",
+    "image": "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?q=80&w=1000",
+    "phone": "986-0700348",
+    "hours": "6:00 am - 8:00 pm"
+  },
+  {
+    "name": "Balami Futsal",
+    "type": "Futsal",
+    "location": {
+      "address": "Saranpur, Sitapaila"
+    },
+    "description": "Affordable and popular spot in Sitapaila for youth teams and morning practitioners.",
+    "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=1000",
+    "phone": "984-1896323",
+    "hours": "6:00 am - 8:00 pm"
+  },
+  {
+    "name": "Sitapaila Recreation Center",
+    "type": "Futsal",
+    "location": {
+      "address": "Sitapaila, Kathmandu"
+    },
+    "description": "Equipped with modern turf and amenities, hosting various local sports events.",
+    "image": "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?q=80&w=1000",
+    "phone": "9761610846",
+    "hours": "6:00 am - 8:00 pm"
+  }
+]
